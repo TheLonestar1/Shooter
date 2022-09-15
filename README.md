@@ -1,5 +1,6 @@
 # Top-down shooter
 
+![image](https://user-images.githubusercontent.com/43960228/190475022-ddf7f59d-f2ec-4cda-9385-dd8f7770757e.png)
 
 
 
